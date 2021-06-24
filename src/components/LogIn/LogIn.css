@@ -11,6 +11,17 @@
 .create-account {
   padding-left: 146px;
 }
+.remerber-me-btn {
+  padding-top: 20px;
+}
+.logInBtn {
+  width: 100px;
+  height: 40px;
+  color: rgb(40, 44, 43);
+  background-color: burlywood;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
 .icon {
   width: 40px;
   padding-left: 4px;

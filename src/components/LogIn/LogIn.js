@@ -36,18 +36,18 @@ const LogIn = () => {
           <label for="floatingPassword">Password</label>
         </div>
         {/* radio btn */}
-        <div class="form-check">
+        <div class="form-check remerber-me-btn">
           <input
             class="form-check-input"
             type="checkbox"
             value=""
             id="defaultCheck1"
           />
-          <label class="form-check-label" for="defaultCheck1">
+          <label className="form-check-label " for="defaultCheck1">
             Remember Me
           </label>
         </div>
-        <button>LogIn</button>
+        <button className="logInBtn">LogIn</button>
         <div>
           <span>
             Or Login With
